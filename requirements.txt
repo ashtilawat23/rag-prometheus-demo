@@ -1,0 +1,8 @@
+prometheus-client>=0.17.1
+contextvars>=2.4
+typing-extensions>=4.7.0
+# Optional dependencies for your RAG pipeline
+# langchain>=0.0.27
+# sentence-transformers>=2.2.2
+# faiss-cpu>=1.7.4
+# redis>=4.5.4  # If using Redis for caching
